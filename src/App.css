@@ -1,9 +1,9 @@
 .defult {
-    margin: 0;
-    box-sizing: border-box;
-    background-color: rgb(248, 248, 248);
-    align-items: center;
-    text-align: center;
-    font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(233, 233, 233);
+  align-items: center;
+  text-align: center;
+  font-size: 1.5rem;
 }
-
